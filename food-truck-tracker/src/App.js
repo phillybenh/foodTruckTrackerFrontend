@@ -6,7 +6,6 @@ import {
   Link,
   NavLink,
 } from "react-router-dom";
-import './App.css';
 import { Container, Row, Col, Button } from 'react-bootstrap';
 
 // Components

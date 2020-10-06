@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter as Router, withRouter } from 'react-router-dom';
-import './index.css';
+import './sass/index.scss';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import 'normalize.css';
